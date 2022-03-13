@@ -1,2 +1,2 @@
-# model_deployment
-This repo includes my deployed machine learning and deep learning models
+# flask app
+This repo includes the flask app of the car price prediction machine learning project
